@@ -1,0 +1,32 @@
+body{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12px;
+}
+
+h1{
+  font-style: bold;
+  margin-right: 3px;
+}
+
+img{
+  width: 60%;
+  margin-left: 30px;
+}
+
+.article1{
+  float: left;
+  width: 33%;
+  margin-right: 3px;
+}
+
+.article2{
+  float: left;
+  width: 33%;
+  margin-right: 3px;
+}
+
+.article3{
+  float: left;
+  width: 33%;
+  margin-right: 3px;
+}

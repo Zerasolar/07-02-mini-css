@@ -1,0 +1,15 @@
+h1{
+  text-align: center;
+  color: blue;
+}
+
+h3{
+  text-align: center;
+  color: green;
+  margin-right: 50px;
+}
+
+.x{
+  float: right;
+  width: 10%;
+}

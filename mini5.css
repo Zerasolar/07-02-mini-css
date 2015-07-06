@@ -1,0 +1,13 @@
+.column1{
+  float: left;
+  width: 20%;
+}
+
+.column2{
+  float: left;
+  width: 80%;
+}
+
+.column3{
+  float: left;
+}
